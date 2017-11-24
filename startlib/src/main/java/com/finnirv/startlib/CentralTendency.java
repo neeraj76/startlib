@@ -9,8 +9,8 @@ import java.util.Iterator;
 public class CentralTendency {
     /**
      * Computes the arithmetic mean of a set of numbers
-     * @param numbers
-     * @return
+     * @param numbers input array of numbers
+     * @return the mean
      */
     public static Number arithmeticMean(Collection<? extends Number> numbers) {
         //check type of values

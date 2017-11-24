@@ -26,5 +26,7 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.2.0'
     testCompile 'junit:junit:4.12'
-    compile project(':startlib')
+
+    //compile project(':startlib')
+    compile 'com.finnirv.public:startlib:0.1.1'
 }
